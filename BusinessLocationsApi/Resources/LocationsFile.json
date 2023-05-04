@@ -1,0 +1,410 @@
+﻿[
+  {
+    "name": "La Terraza",
+    "type": "Restaurant",
+    "hours": {
+      "monday": {
+        "open": 900,
+        "close": 2200
+      },
+      "tuesday": {
+        "open": 900,
+        "close": 2200
+      },
+      "wednesday": {
+        "open": 900,
+        "close": 2200
+      },
+      "thursday": {
+        "open": 900,
+        "close": 2200
+      },
+      "friday": {
+        "open": 900,
+        "close": 2300
+      },
+      "saturday": {
+        "open": 1100,
+        "close": 2300
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 2200
+      }
+    }
+  },
+  {
+    "name": "Hair & Beauty",
+    "type": "Hair salon",
+    "hours": {
+      "monday": {
+        "open": 1000,
+        "close": 1800
+      },
+      "tuesday": {
+        "open": 1000,
+        "close": 1800
+      },
+      "wednesday": {
+        "open": 1000,
+        "close": 1800
+      },
+      "thursday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "friday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "saturday": {
+        "open": 1000,
+        "close": 1500
+      },
+      "sunday": {
+        "open": 0,
+        "close": 0
+      }
+    }
+  },
+  {
+    "name": "Sportline",
+    "type": "Sport shop",
+    "hours": {
+      "monday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "tuesday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "wednesday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "thursday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "friday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "saturday": {
+        "open": 900,
+        "close": 1700
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1500
+      }
+    }
+  },
+  {
+    "name": "Fashion House",
+    "type": "Clothing store",
+    "hours": {
+      "monday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "tuesday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "wednesday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "thursday": {
+        "open": 1000,
+        "close": 2100
+      },
+      "friday": {
+        "open": 1000,
+        "close": 2100
+      },
+      "saturday": {
+        "open": 1100,
+        "close": 1900
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1700
+      }
+    }
+  },
+  {
+    "name": "Fit & Strong",
+    "type": "Gym",
+    "hours": {
+      "monday": {
+        "open": 600,
+        "close": 2200
+      },
+      "tuesday": {
+        "open": 600,
+        "close": 2200
+      },
+      "wednesday": {
+        "open": 600,
+        "close": 2200
+      },
+      "thursday": {
+        "open": 600,
+        "close": 2200
+      },
+      "friday": {
+        "open": 600,
+        "close": 2100
+      },
+      "saturday": {
+        "open": 800,
+        "close": 1800
+      },
+      "sunday": {
+        "open": 900,
+        "close": 1500
+      }
+    }
+  },
+  {
+    "name": "Movie World",
+    "type": "Cinema",
+    "hours": {
+      "monday": {
+        "open": 1200,
+        "close": 2300
+      },
+      "tuesday": {
+        "open": 1200,
+        "close": 2300
+      },
+      "wednesday": {
+        "open": 1200,
+        "close": 2300
+      },
+      "thursday": {
+        "open": 1200,
+        "close": 2300
+      },
+      "friday": {
+        "open": 1200,
+        "close": 2400
+      },
+      "saturday": {
+        "open": 1000,
+        "close": 2400
+      },
+      "sunday": {
+        "open": 1000,
+        "close": 2300
+      }
+    }
+  },
+  {
+    "name": "TechZone",
+    "type": "Electronics store",
+    "hours": {
+      "monday": {
+        "open": 900,
+        "close": 2000
+      },
+      "tuesday": {
+        "open": 900,
+        "close": 2000
+      },
+      "wednesday": {
+        "open": 900,
+        "close": 2000
+      },
+      "thursday": {
+        "open": 900,
+        "close": 2100
+      },
+      "friday": {
+        "open": 900,
+        "close": 2100
+      },
+      "saturday": {
+        "open": 1000,
+        "close": 1900
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1700
+      }
+    }
+  },
+  {
+    "name": "Clean & Fresh",
+    "type": "Laundry",
+    "hours": {
+      "monday": {
+        "open": 800,
+        "close": 1900
+      },
+      "tuesday": {
+        "open": 800,
+        "close": 1900
+      },
+      "wednesday": {
+        "open": 800,
+        "close": 1900
+      },
+      "thursday": {
+        "open": 800,
+        "close": 1900
+      },
+      "friday": {
+        "open": 800,
+        "close": 2000
+      },
+      "saturday": {
+        "open": 900,
+        "close": 1800
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1600
+      }
+    }
+  },
+  {
+    "name": "Green Leaf",
+    "type": "Vegetarian restaurant",
+    "hours": {
+      "monday": {
+        "open": 1100,
+        "close": 2100
+      },
+      "tuesday": {
+        "open": 1100,
+        "close": 2100
+      },
+      "wednesday": {
+        "open": 1100,
+        "close": 2100
+      },
+      "thursday": {
+        "open": 1100,
+        "close": 2100
+      },
+      "friday": {
+        "open": 1100,
+        "close": 2200
+      },
+      "saturday": {
+        "open": 1200,
+        "close": 2200
+      },
+      "sunday": {
+        "open": 1200,
+        "close": 2000
+      }
+    }
+  },
+  {
+    "name": "Relax & Renew",
+    "type": "Spa",
+    "hours": {
+      "monday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "tuesday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "wednesday": {
+        "open": 1000,
+        "close": 2000
+      },
+      "thursday": {
+        "open": 1000,
+        "close": 2100
+      },
+      "friday": {
+        "open": 1000,
+        "close": 2100
+      },
+      "saturday": {
+        "open": 1100,
+        "close": 1800
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1700
+      }
+    }
+  },
+  {
+    "name": "PetLand",
+    "type": "Pet store",
+    "hours": {
+      "monday": {
+        "open": 900,
+        "close": 2000
+      },
+      "tuesday": {
+        "open": 900,
+        "close": 2000
+      },
+      "wednesday": {
+        "open": 900,
+        "close": 2000
+      },
+      "thursday": {
+        "open": 900,
+        "close": 2000
+      },
+      "friday": {
+        "open": 900,
+        "close": 2100
+      },
+      "saturday": {
+        "open": 1000,
+        "close": 1900
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1700
+      }
+    }
+  },
+  {
+    "name": "Vintage Cellar",
+    "type": "Wine shop",
+    "hours": {
+      "monday": {
+        "open": 1200,
+        "close": 2000
+      },
+      "tuesday": {
+        "open": 1200,
+        "close": 2000
+      },
+      "wednesday": {
+        "open": 1200,
+        "close": 2000
+      },
+      "thursday": {
+        "open": 1200,
+        "close": 2000
+      },
+      "friday": {
+        "open": 1200,
+        "close": 2100
+      },
+      "saturday": {
+        "open": 1100,
+        "close": 2000
+      },
+      "sunday": {
+        "open": 1100,
+        "close": 1800
+      }
+    }
+  }
+]
